@@ -1,0 +1,13 @@
+C:\Users\ABHASH\Desktop\SecureFileTransfer\SecureFileTransfer\SecureFileTransfer\bin\Debug\SecureFileTransfer.exe
+C:\Users\ABHASH\Desktop\SecureFileTransfer\SecureFileTransfer\SecureFileTransfer\bin\Debug\SecureFileTransfer.pdb
+C:\Users\ABHASH\Desktop\SecureFileTransfer\SecureFileTransfer\SecureFileTransfer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ABHASH\Desktop\SecureFileTransfer\SecureFileTransfer\SecureFileTransfer\obj\x86\Debug\EncryptFile.frmEncryption.resources
+C:\Users\ABHASH\Desktop\SecureFileTransfer\SecureFileTransfer\SecureFileTransfer\obj\x86\Debug\SecureFileTransfer.frmFileTransfer.resources
+C:\Users\ABHASH\Desktop\SecureFileTransfer\SecureFileTransfer\SecureFileTransfer\obj\x86\Debug\SecureFileTransfer.frmMain.resources
+C:\Users\ABHASH\Desktop\SecureFileTransfer\SecureFileTransfer\SecureFileTransfer\obj\x86\Debug\SecureFileTransfer.Properties.Resources.resources
+C:\Users\ABHASH\Desktop\SecureFileTransfer\SecureFileTransfer\SecureFileTransfer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ABHASH\Desktop\SecureFileTransfer\SecureFileTransfer\SecureFileTransfer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ABHASH\Desktop\SecureFileTransfer\SecureFileTransfer\SecureFileTransfer\obj\x86\Debug\SecureFileTransfer.exe
+C:\Users\ABHASH\Desktop\SecureFileTransfer\SecureFileTransfer\SecureFileTransfer\obj\x86\Debug\SecureFileTransfer.pdb
+C:\Users\Jasbir\Desktop\SecureFileTransfer\SecureFileTransfer\obj\x86\Debug\SecureFileTransfer.exe
+C:\Users\Jasbir\Desktop\SecureFileTransfer\SecureFileTransfer\obj\x86\Debug\SecureFileTransfer.pdb
